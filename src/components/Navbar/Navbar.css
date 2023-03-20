@@ -1,0 +1,15 @@
+.navbar{
+color: rgba(0, 153, 255, 0.836);
+
+}
+
+.navbar a:hover {
+  color: #3498db !important;
+}
+/* .navbar-1{
+color: rgba(0, 153, 255, 0.836);
+} */
+
+/* .items{
+    float: right;
+} */
